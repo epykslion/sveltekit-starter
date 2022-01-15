@@ -164,7 +164,7 @@
 		"husky": "^6.0.0",
 		"jest": "26.6.3",
 		"lint-staged": "^11.0.0",
-		"marked": "^2.1.1",
+		"marked": "^4.0.10",
 		"npm-run-all": "^4.1.5",
 		"postcss": "^8.3.4",
 		"postcss-at-rules-variables": "^0.3.0",
